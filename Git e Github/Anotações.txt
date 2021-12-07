@@ -1,0 +1,3 @@
+*COMANDOS*
+Git init  -> inicializa um repositório dentro de uma pasta
+Git add * -> adiciona um arquivo à área de staging
