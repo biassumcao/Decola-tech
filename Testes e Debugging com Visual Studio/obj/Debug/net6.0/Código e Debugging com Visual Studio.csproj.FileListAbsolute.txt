@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\bin\Debug\net6.0\Código e Debugging com Visual Studio.exe
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\bin\Debug\net6.0\Código e Debugging com Visual Studio.deps.json
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\bin\Debug\net6.0\Código e Debugging com Visual Studio.runtimeconfig.json
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\bin\Debug\net6.0\Código e Debugging com Visual Studio.dll
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\bin\Debug\net6.0\ref\Código e Debugging com Visual Studio.dll
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\bin\Debug\net6.0\Código e Debugging com Visual Studio.pdb
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.AssemblyInfo.cs
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.dll
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\ref\Código e Debugging com Visual Studio.dll
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.pdb
+C:\Users\User\source\repos\Código e Debugging com Visual Studio\Código e Debugging com Visual Studio\obj\Debug\net6.0\Código e Debugging com Visual Studio.genruntimeconfig.cache
