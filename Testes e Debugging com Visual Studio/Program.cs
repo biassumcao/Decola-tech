@@ -1,5 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+namespace Ordenacao
+{
+    public class Ordenacao
+    {
+        public int[] bubbleSort(int[] arr)
+        {
+            int num = arr.Length;
 
-var x = 10;
-var y = 20;
-Console.WriteLine(x + y);
+            for (int i = 0; i < num - 1; i++)
+            {
+                for (int j = 0; j < num - i - 1; j++)
+                {
+                    if (arr[j] > arr[j + 1])
+                    {
+                        int tmp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = tmp;
+                    }
+                }
+
+            }
+
+            return arr;
+
+        }
+    }
+}
