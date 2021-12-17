@@ -1,0 +1,15 @@
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.csproj.AssemblyReference.cache
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.AssemblyInfoInputs.cache
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.AssemblyInfo.cs
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.csproj.CoreCompileInputs.cache
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\bin\Debug\net6.0\FileManager.exe
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\bin\Debug\net6.0\FileManager.deps.json
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\bin\Debug\net6.0\FileManager.runtimeconfig.json
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\bin\Debug\net6.0\FileManager.dll
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\bin\Debug\net6.0\ref\FileManager.dll
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\bin\Debug\net6.0\FileManager.pdb
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.dll
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\ref\FileManager.dll
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.pdb
+C:\Program Files\DecolaTech\Decola-tech\Manipulações com a classe File\FileManager\obj\Debug\net6.0\FileManager.genruntimeconfig.cache
