@@ -1,3 +1,6 @@
+using System.Runtime.Serialization;
+using System.Net.Http;
+using System.Net;
 using System.Reflection.PortableExecutable;
 using System.Security.AccessControl;
 using System;
@@ -25,5 +28,15 @@ public class File
       }
 
       System.Console.WriteLine();
+   }
+
+   public void alterarArquivoTexto(string caminho, List<string> alteracao){
+      using(var stream = System.IO.File.AppendText(caminho))
+      {
+         foreach (var item in alteracao)
+         {
+            stream.WriteLine(item); 
+         }
+      }
    }
 }
