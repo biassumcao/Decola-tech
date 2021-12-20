@@ -1,3 +1,4 @@
+using System.IO.Enumeration;
 using System.Runtime.Serialization;
 using System.Net.Http;
 using System.Net;
@@ -38,5 +39,10 @@ public class File
             stream.WriteLine(item); 
          }
       }
+   }
+
+   public void deletarArquivo(string caminho)
+   {
+      System.IO.File.Delete(caminho);
    }
 }
