@@ -14,7 +14,7 @@ class Program
       gerenciadorDeArquivos.listarDiretorios(caminho);
       gerenciadorDeArquivos.listarArquivos(caminho);
 
-      var novaAlteracao = new List<string> {"Git status -> mostra o status dos arquivos do repositório em questão, se há alterações, novos arquivos etc."};
+      var novaAlteracao = new List<string> {"Git push -> envia repositorio para o local remoto ou atualiza-o"};
       
       gerenciadorDeArquivos.alterarArquivoTexto(caminhoGitEGithub, novaAlteracao);
    }
