@@ -1,0 +1,15 @@
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Program Files\DecolaTech\Decola-tech\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
