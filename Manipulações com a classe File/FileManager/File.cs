@@ -45,4 +45,12 @@ public class File
    {
       System.IO.File.Delete(caminho);
    }
+
+   public void copiarArquivo(string origem, string destino){
+      System.IO.File.Copy(origem, destino);
+   }
+
+   public void moverArquivo(string origem, string destino){
+      System.IO.File.Move(origem, destino);
+   }
 }
