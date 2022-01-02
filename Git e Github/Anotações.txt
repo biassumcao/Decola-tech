@@ -1,5 +1,5 @@
 *COMANDOS*
 Git init  -> inicializa um repositório dentro de uma pasta
-Git add * -> adiciona um arquivo à área de stagingGit status -> mostra o status dos arquivos do repositório em questão, se há alterações, novos arquivos etc.
+Git add * -> adiciona arquivos à área de staging
 Git status -> mostra o status dos arquivos do repositório em questão, se há alterações, novos arquivos etc.
 Git push -> envia repositorio para o local remoto ou atualiza-o
