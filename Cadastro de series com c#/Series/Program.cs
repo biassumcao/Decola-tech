@@ -32,7 +32,8 @@ class Program
 						break;
 
 					default:
-						throw new ArgumentOutOfRangeException();
+						Console.WriteLine("Entrada inválida. Tente novamente");
+						break;
 				}
 
 				opcaoUsuario = ObterOpcaoUsuario();
@@ -77,6 +78,9 @@ class Program
 			Console.Write("Digite o Ano de Início da Série: ");
 			int entradaAno = int.Parse(Console.ReadLine());
 
+			Console.Write("Digite a quantidade de temporadas da Série: ");
+			int entradaTemp = int.Parse(Console.ReadLine());
+
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
 
@@ -84,7 +88,8 @@ class Program
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
 										ano: entradaAno,
-										descricao: entradaDescricao);
+										descricao: entradaDescricao,
+										temporadas: entradaTemp);
 
 			repositorio.Atualiza(indiceSerie, atualizaSerie);
 		}
@@ -125,6 +130,9 @@ class Program
 			Console.Write("Digite o Ano de Início da Série: ");
 			int entradaAno = int.Parse(Console.ReadLine());
 
+			Console.Write("Digite a quantidade de temporadas da Série: ");
+			int entradaTemp = int.Parse(Console.ReadLine());
+
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
 
@@ -132,7 +140,8 @@ class Program
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
 										ano: entradaAno,
-										descricao: entradaDescricao);
+										descricao: entradaDescricao,
+										temporadas: entradaTemp);
 
 			repositorio.Insere(novaSerie);
 		}
