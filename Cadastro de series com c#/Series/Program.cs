@@ -84,12 +84,16 @@ class Program
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
 
+			Console.Write("Avaliação: ");
+			int avaliacao = int.Parse(Console.ReadLine());
+
 			Serie atualizaSerie = new Serie(id: indiceSerie,
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
 										ano: entradaAno,
 										descricao: entradaDescricao,
-										temporadas: entradaTemp);
+										temporadas: entradaTemp,
+										avaliacao: avaliacao);
 
 			repositorio.Atualiza(indiceSerie, atualizaSerie);
 		}
@@ -136,11 +140,15 @@ class Program
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
 
+			Console.Write("Avaliação: ");
+			int avaliacao = int.Parse(Console.ReadLine());
+
 			Serie novaSerie = new Serie(id: repositorio.ProximoId(),
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
 										ano: entradaAno,
 										descricao: entradaDescricao,
+										avaliacao: avaliacao,
 										temporadas: entradaTemp);
 
 			repositorio.Insere(novaSerie);

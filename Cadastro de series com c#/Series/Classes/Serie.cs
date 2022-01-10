@@ -9,8 +9,9 @@ namespace Series
 		private int Ano { get; set; }
       private bool Excluido {get; set;}
 		private int Temporadas {get; set;}
+		private int avaliacao {get; set;}
 
-        public Serie(int id, Genero genero, string titulo, string descricao, int ano, int temporadas)
+        public Serie(int id, Genero genero, string titulo, string descricao, int ano, int temporadas, int avaliacao)
 		{
 			this.Id = id;
 			this.Genero = genero;
@@ -19,6 +20,7 @@ namespace Series
 			this.Ano = ano;
 			this.Temporadas = temporadas;
          this.Excluido = false;
+			this.avaliacao = avaliacao;
 		}
 
         public override string ToString()
@@ -29,6 +31,7 @@ namespace Series
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
 				retorno += "Quantidade de temporadas: " + this.Temporadas + Environment.NewLine;
+				retorno += "Avaliacao: " + this.avaliacao + Environment.NewLine;
             retorno += "Excluido: " + this.Excluido;
 			return retorno;
 		}
@@ -52,5 +55,6 @@ namespace Series
 		public void Excluir() {
             this.Excluido = true;
         }
+		  
     }
 }
