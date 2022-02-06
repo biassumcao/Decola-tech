@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Series/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Series.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Series.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Series/1.0.0": {
+      "type": "project",
+      "path": "../Series/Series.csproj",
+      "msbuildProject": "../Series/Series.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Series >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj",
-      "projectName": "Series",
-      "projectPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj",
+      "projectUniqueName": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series.Console\\Series.Console.csproj",
+      "projectName": "Series.Console",
+      "projectPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series.Console\\Series.Console.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\obj\\",
+      "outputPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj": {
+              "projectPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.exe
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.deps.json
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.runtimeconfig.json
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\ref\Series.Web.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.pdb
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.AssemblyInfo.cs
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\scopedcss\bundle\Series.Web.styles.css
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.csproj.CopyComplete
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\ref\Series.Web.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.pdb
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.genruntimeconfig.cache
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.pdb
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Owin.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\appsettings.json
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.exe
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.deps.json
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.runtimeconfig.json
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\ref\Series.Web.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.Web.pdb
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Owin.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\bin\Debug\net6.0\Series.pdb
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.csproj.AssemblyReference.cache
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.AssemblyInfoInputs.cache
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.AssemblyInfo.cs
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.csproj.CoreCompileInputs.cache
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\scopedcss\bundle\Series.Web.styles.css
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.csproj.CopyComplete
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\ref\Series.Web.dll
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.pdb
+C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series.Web\obj\Debug\net6.0\Series.Web.genruntimeconfig.cache
