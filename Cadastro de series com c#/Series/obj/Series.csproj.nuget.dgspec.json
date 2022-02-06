@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj": {}
+    "C:\\Users\\User\\Desktop\\Cadastro de series com c#\\Series\\Series.csproj": {}
   },
   "projects": {
-    "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj": {
+    "C:\\Users\\User\\Desktop\\Cadastro de series com c#\\Series\\Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Cadastro de series com c#\\Series\\Series.csproj",
         "projectName": "Series",
-        "projectPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\Series.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Cadastro de series com c#\\Series\\Series.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files\\DecolaTech\\Decola-tech\\Cadastro de series com c#\\Series\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Cadastro de series com c#\\Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,6 +1,4 @@
-C:\Users\User\Desktop\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.exe
 C:\Users\User\Desktop\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.deps.json
-C:\Users\User\Desktop\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.runtimeconfig.json
 C:\Users\User\Desktop\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.dll
 C:\Users\User\Desktop\Cadastro de series com c#\Series\bin\Debug\net6.0\ref\Series.dll
 C:\Users\User\Desktop\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.pdb
@@ -12,7 +10,6 @@ C:\Users\User\Desktop\Cadastro de series com c#\Series\obj\Debug\net6.0\Series.c
 C:\Users\User\Desktop\Cadastro de series com c#\Series\obj\Debug\net6.0\Series.dll
 C:\Users\User\Desktop\Cadastro de series com c#\Series\obj\Debug\net6.0\ref\Series.dll
 C:\Users\User\Desktop\Cadastro de series com c#\Series\obj\Debug\net6.0\Series.pdb
-C:\Users\User\Desktop\Cadastro de series com c#\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
 C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.exe
 C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.deps.json
 C:\Program Files\DecolaTech\Decola-tech\Cadastro de series com c#\Series\bin\Debug\net6.0\Series.runtimeconfig.json
